@@ -1,5 +1,6 @@
 {
   "name": "bams-backend",
+  "type": "module",
   "version": "1.0.0",
   "description": "Blockchain-Based Attendance Management System - Backend",
   "main": "server.js",
